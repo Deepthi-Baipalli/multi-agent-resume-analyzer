@@ -1,0 +1,79 @@
+{
+  "job_details": {
+    "title": "Data Scientist",
+    "company": "Veltris",
+    "location": "Bangalore, Karnataka",
+    "description": "Role: Data Scientist Experience: 4-8 Years Working Days: 5 Days Work Mode: Hybrid (One week work from office in a month) Location: Bangalore/ Chennai Notice Period – Immediate or 15 days maximum You are a successful resource for this role, if you have- · 3 years of experience in applied data science , preferably in real-time or simulation-based environments. · Strong proficiency in Python , NumPy, Pandas , and deep learning frameworks like PyTorch or TensorFlow. · Experience with time-series an…",
+    "url": "https://www.adzuna.in/land/ad/5322718855?se=rnptUnJ78BGBea4LRr6LcQ&utm_medium=api&utm_source=2b42c998&v=F3AAFB2FA81953168F90D5AB8CBD2FA582B89D9B",
+    "source": "adzuna",
+    "salary_range": "Not disclosed",
+    "job_type": "Full-time",
+    "posted_date": "2025-07-26T08:45:54Z",
+    "category": "IT Jobs",
+    "contract_type": "",
+    "salary_min": null,
+    "salary_max": null,
+    "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTMyMjcxODg1NSIsInMiOiJybnB0VW5KNzhCR0JlYTRMUnI2TGNRIn0.xMZ-E75tEtHTBzOy1YHlztc3eaCGESUo77FYtb7oOaY",
+    "relevance_score": 100,
+    "parsed_requirements": {
+      "required_skills": [
+        "Python",
+        "NumPy",
+        "Pandas",
+        "PyTorch",
+        "TensorFlow"
+      ],
+      "preferred_skills": [],
+      "years_experience": 4,
+      "education": null,
+      "location_type": "hybrid",
+      "salary_range": null,
+      "visa_sponsorship": null,
+      "seniority_level": "mid",
+      "key_responsibilities": [],
+      "disqualifiers": []
+    }
+  },
+  "materials": {
+    "resume_bullets": {},
+    "cover_letter": "I am excited to apply for the Data Scientist role at Veltris, as it represents a unique opportunity to leverage my analytical skills and passion for data-driven insights to drive business growth. With a strong foundation in data science, I am confident that my skills align with the company's vision.\n\nAs a Junior Data Scientist, I have developed a solid understanding of machine learning algorithms, data visualization, and statistical modeling. My experience in working with large datasets has equipped me with the ability to extract valuable insights and communicate complex findings effectively. Additionally, my proficiency in programming languages such as Python and R has enabled me to build and deploy scalable data models.\n\nI am eager to bring my skills and enthusiasm to Veltris and contribute to the company's success. I am confident that my strong work ethic and ability to collaborate with cross-functional teams will enable me to make a significant impact and drive business value.",
+    "qa_answers": {
+      "why_interested": "I'm drawn to this Data Scientist role at Veltris as it leverages my analytical skills and passion for data-driven insights, with opportunities to drive business growth.",
+      "why_company": "Veltris's commitment to innovation and customer satisfaction resonates with me, and I'm excited about the prospect of contributing to a forward-thinking team.",
+      "good_fit": "With 2 years of experience in data science and a strong foundation in statistical modeling, I believe my skills align well with the role's requirements and Veltris's goals.",
+      "salary_expectations": "Based on industry standards, I expect a salary range of ₹12-18 lakhs per annum, considering my experience and qualifications.",
+      "notice_period": "I can provide a notice period of 2-4 weeks, as per standard professional norms.",
+      "work_authorization": "I am authorized to work in India, with no restrictions or requirements for sponsorship."
+    },
+    "generated_for": {
+      "job_title": "Data Scientist",
+      "company": "Veltris",
+      "job_url": "https://www.adzuna.in/land/ad/5322718855?se=rnptUnJ78BGBea4LRr6LcQ&utm_medium=api&utm_source=2b42c998&v=F3AAFB2FA81953168F90D5AB8CBD2FA582B89D9B"
+    }
+  },
+  "fit_score": {
+    "overall_score": 36.70000076293945,
+    "components": {
+      "embedding_similarity": 31.0,
+      "keyword_match": 48.0,
+      "experience_match": 30,
+      "penalties": 0
+    },
+    "explanation": {
+      "strengths": [
+        "Good overall candidate profile"
+      ],
+      "gaps": [
+        "Missing required skills: tensorflow, numpy",
+        "Below preferred experience level"
+      ],
+      "concerns": []
+    },
+    "recommendation": "skip"
+  },
+  "generated_at": "2025-08-17T19:29:00.548533",
+  "files_created": {
+    "cover_letter": "saved_applications\\cover_letter_Veltris_Data_Scientist_20250817_192900.txt",
+    "qa_answers": "saved_applications\\qa_answers_Veltris_Data_Scientist_20250817_192900.txt"
+  }
+}
