@@ -1,0 +1,95 @@
+{
+  "count": 29979,
+  "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+  "results": [
+    {
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM1MDA3ODAzOCIsInMiOiJNdXNnNFcxNzhCR0JlYTRMUnI2TGNRIn0.M_Gg06c-QgRTznv6Zm7Gq3cAUDA1l6Gg_ATuu1fI6t4",
+      "id": "5350078038",
+      "salary_is_predicted": "0",
+      "company": {
+        "display_name": "L&T Technology Services",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      },
+      "location": {
+        "display_name": "Bangalore, Karnataka",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Karnataka",
+          "Bangalore"
+        ]
+      },
+      "title": "Python Automation",
+      "redirect_url": "https://www.adzuna.in/land/ad/5350078038?se=Musg4W178BGBea4LRr6LcQ&utm_medium=api&utm_source=2b42c998&v=26021D8056DDF9AF9635691A970B6182A6DC5545",
+      "created": "2025-08-13T09:09:52Z",
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Experience: 5-6 years of experience in test automation with a strong focus on Robot Framework and Python. Mandatory Technical Skills: Robot Framework and Python test automation Proficiency in Pytest automation tools. Should have leadership capability as well and can be projected as a test lead as well Key Responsibilities: Develop, maintain, and execute automated test scripts using Robot Framework and Python. Design and implement test strategies and frameworks to ensure the quality and reliabil\u2026",
+      "category": {
+        "tag": "it-jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "label": "IT Jobs"
+      }
+    },
+    {
+      "description": "Job purpose: Design & implement the best-engineered technical solutions using the latest technologies and tools. Who You Are: Lead Python development efforts for GenAI and data engineering projects from architecture to deployment. Build and optimize LLM-powered pipelines, APIs, and services using OpenAI, Hugging Face, or similar frameworks. Architect and implement scalable data pipelines, transformation logic, and feature engineering for AI models. Collaborate with ML/AI scientists, data engine\u2026",
+      "longitude": 72.59465,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "latitude": 23.042,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "created": "2025-08-10T08:54:57Z",
+      "redirect_url": "https://www.adzuna.in/land/ad/5346538897?se=Musg4W178BGBea4LRr6LcQ&utm_medium=api&utm_source=2b42c998&v=14AE2F2F5E58CEE867D738F1CE4D238B0F4E494A",
+      "title": "Python Lead",
+      "location": {
+        "area": [
+          "India",
+          "Gujarat",
+          "Ahmedabad"
+        ],
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "display_name": "Ahmedabad, Gujarat"
+      },
+      "company": {
+        "__CLASS__": "Adzuna::API::Response::Company",
+        "display_name": "Azilen Technologies"
+      },
+      "salary_is_predicted": "0",
+      "id": "5346538897",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXVzZzRXMTc4QkdCZWE0TFJyNkxjUSIsImkiOiI1MzQ2NTM4ODk3In0.fjT1AOjqzGT8ehTK4_XMemGxomAYjTsHTmDHlFYM5yg"
+    },
+    {
+      "redirect_url": "https://www.adzuna.in/land/ad/5350077396?se=Musg4W178BGBea4LRr6LcQ&utm_medium=api&utm_source=2b42c998&v=1010DA7159EBA95A5945457A042D95A9E8F8DFAA",
+      "latitude": 18.5062,
+      "__CLASS__": "Adzuna::API::Response::Job",
+      "description": "Support Analyst {AI and Data Application). Job involves working in Shifts  working during extended hours on weekend or India Holidays on Need basis. About the Role Exp :6 years Skills : ADF , ADB , Python , (AKS or DevOps or CI/CD) Loc: Pune Responsibilities Understanding of cloud computing concepts, specifically Microsoft Azure. Experience with Azure services like AKS clusters, App Services, Storage Accounts, Virtual Networks, Azure Active Directory, and Azure Monitor. Ability to support API b\u2026",
+      "longitude": 73.84735,
+      "category": {
+        "label": "IT Jobs",
+        "__CLASS__": "Adzuna::API::Response::Category",
+        "tag": "it-jobs"
+      },
+      "created": "2025-08-13T09:09:14Z",
+      "id": "5350077396",
+      "salary_is_predicted": "0",
+      "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTXVzZzRXMTc4QkdCZWE0TFJyNkxjUSIsImkiOiI1MzUwMDc3Mzk2In0.f13qXPFGs40YbIG6iYhI5BcHVuq6fFfI9aTFolQp8JM",
+      "title": "Python Middleware",
+      "location": {
+        "display_name": "Pune, Maharashtra",
+        "__CLASS__": "Adzuna::API::Response::Location",
+        "area": [
+          "India",
+          "Maharashtra",
+          "Pune"
+        ]
+      },
+      "company": {
+        "display_name": "People Connexions",
+        "__CLASS__": "Adzuna::API::Response::Company"
+      }
+    }
+  ],
+  "mean": 1410475.14
+}
